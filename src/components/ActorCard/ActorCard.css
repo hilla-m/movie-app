@@ -1,12 +1,18 @@
 .card{
-    margin: 20px;
-    /* padding: 20px; */
+    margin: 25px;
+    padding: 2px;
     text-align: center;
+    background-color: black !important;
+}
+
+
+.card-body , .card-title{
+    background-color: white !important;
 }
 
 .imdbLink {
     font-weight: bold;
-    color:firebrick !important;
+    color: firebrick !important;
 }
 
 .show{
@@ -16,8 +22,3 @@
 .hide{
     display: none;
 }
-
-/* .actorImg {
-    width: 150px !important;
-} */
-
