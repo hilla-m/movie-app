@@ -1,0 +1,36 @@
+
+.cards-div{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.container  h1{
+    margin: auto;
+    font-weight: bold;
+    color: firebrick;
+    padding: 30px;
+}
+
+.container > input{
+    margin: 20px;
+}
+
+
+.form-row{
+    display: flex;
+    justify-content:space-evenly;
+} 
+
+
+.label {
+    color: firebrick;
+    font-weight: bold;
+}
+
+.filter , .sort {
+    width: 300px !important;
+
+}
+
+

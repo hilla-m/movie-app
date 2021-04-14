@@ -1,0 +1,23 @@
+.card{
+    margin: 20px;
+    /* padding: 20px; */
+    text-align: center;
+}
+
+.imdbLink {
+    font-weight: bold;
+    color:firebrick !important;
+}
+
+.show{
+    display: inline-block;
+}
+
+.hide{
+    display: none;
+}
+
+/* .actorImg {
+    width: 150px !important;
+} */
+
