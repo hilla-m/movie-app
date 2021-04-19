@@ -5,7 +5,7 @@ import './ActorCard.css';
 function ActorCard({ actor }) {
 
     return (
-        <Card style={{ width: '18rem' }} >
+        <Card className = "actor-card" style={{ width: '18rem' }} >
             <Card.Img className="actorImg" variant="top" src={actor.image} />
             <Card.Body>
                 <Card.Title>

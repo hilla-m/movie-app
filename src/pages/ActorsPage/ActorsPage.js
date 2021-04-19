@@ -41,7 +41,7 @@ function ActorsPage(props) {
     const actorsCards = filteredActors.map(actor => <ActorCard actor={actor} />);
 
     return (
-        <Container className="container">
+        <Container className="actors-container">
             <Row className="title">
                 <h1>Actors Gallery</h1>
             </Row>

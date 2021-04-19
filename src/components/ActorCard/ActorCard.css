@@ -1,4 +1,4 @@
-.card{
+.card {
     margin: 25px;
     padding: 2px;
     text-align: center;
@@ -6,19 +6,19 @@
 }
 
 
-.card-body , .card-title{
+.actor-card .card-body , .card-title{
     background-color: white !important;
 }
 
-.imdbLink {
+.actor-card .imdbLink {
     font-weight: bold;
     color: firebrick !important;
 }
 
-.show{
+.actor-card .show{
     display: inline-block;
 }
 
-.hide{
+.actor-card .hide{
     display: none;
 }
