@@ -1,10 +1,10 @@
-.cards-div{
+.container .cards-div{
     margin-top: 20px;
     display: flex;
     justify-content: center;
 }
 
-.container  h1{
+.title  h1{
     margin: auto;
     font-weight: bold;
     color: firebrick;
@@ -16,18 +16,18 @@
 }
 
 
-.form-row{
+.container .form-row{
     justify-content:center;
 } 
 
 
-.label {
+.container .label {
     margin: 5px  10px 5px 40px;
     font-size: 18px;
     /* font-weight: bold; */
 }
 
-.filter , .sort {
+.container .filter , .sort {
     width: 300px !important;
 
 }
