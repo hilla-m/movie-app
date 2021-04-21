@@ -33,5 +33,27 @@
         "birthday": "November 12, 1980",
         "image": "https://m.media-amazon.com/images/M/MV5BMTQzMjkwNTQ2OF5BMl5BanBnXkFtZTgwNTQ4MTQ4MTE@._V1_UY317_CR18,0,214,317_AL_.jpg",
         "imdbLink": "https://www.imdb.com/name/nm0331516/"
+    },
+    {
+        "firstName": "Bradley",
+        "lastName": "Cooper",
+        "birthday": "January 5, 1975",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjM0OTIyMzY1M15BMl5BanBnXkFtZTgwMTg0OTE0NzE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+        "imdbLink": "https://www.imdb.com/name/nm0177896/"
+    },
+    {
+        "firstName": "Keira",
+        "lastName": "Knightley",
+        "birthday": "March 26, 1985",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYwNDM0NDA3M15BMl5BanBnXkFtZTcwNTkzMjQ3OA@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+        "imdbLink": "https://www.imdb.com/name/nm0461136/"
+    },
+    {
+        "firstName": "Matthew",
+        "lastName": "McConaughey",
+        "birthday": "November 4, 1969",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+        "imdbLink": "https://www.imdb.com/name/nm0000190/"
     }
 ]
+
