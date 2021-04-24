@@ -1,0 +1,51 @@
+/* .movie-card{
+    position: relative;
+    margin: 25px;
+    padding: 2px;
+    background-color: black !important;
+}
+.movie-card .card-body , .card-title{
+    background-color: white !important;
+}
+.movie-card .card-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: firebrick !important;
+}
+.movie-card .movieImg{
+    width: 250px;
+}
+.movie-card .card-body{
+    position: absolute;
+    top:50px;
+    right: 250px;
+} */
+
+.movie-card{
+    display: flex;
+    border: 3px solid;
+    border-radius: 5px;
+    margin: 20px;
+} 
+
+.movie-card .card-body {
+    padding: 30px;
+}
+
+.movie-card .card-body , .card-title{
+    background-color: white;
+}
+
+.movie-card .card-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: firebrick;
+}
+
+.movie-card .movieImg{
+    width: 200px;
+}
+
+.movie-card .bold{
+    font-weight: bold;
+}

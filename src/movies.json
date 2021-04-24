@@ -1,0 +1,45 @@
+[
+    {
+        "movieName": "Ava",
+        "lengthInMinutes": "97",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
+        "director": "Tate Taylor",
+        "mainStars": "Jessica Chastain, John Malkovich"
+    },
+{
+    "movieName": "Cherry",
+    "lengthInMinutes": "140",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+    "director": "Anthony Russo, Joe Russo",
+    "mainStars": "Tom Holland, Ciara Bravo"
+},
+{
+    "movieName": "Stowaway",
+    "lengthInMinutes": "116",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yOscLK7KzEPDdi1P8RmevGIjOSp.jpg",
+    "director": "Joe Penna",
+    "mainStars": "Anna Kendrick, Daniel Dae Kim"
+},
+{
+    "movieName": "Godzilla vs. Kong",
+    "lengthInMinutes": "113",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+    "director": "Adam Wingard",
+    "mainStars": "Alexander Skarsgård, Millie Bobby Brown"
+},
+{
+    "movieName": "Mortal Kombat",
+    "lengthInMinutes": "110",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6K0RCDfP9ExbTcYgryaQHTGmET7.jpg",
+    "director": "Simon McQuoid",
+    "mainStars": "Lewis Tan, Jessica McNamee"
+},
+{
+    "movieName": "Red Dot",
+    "lengthInMinutes": "86",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xZ2KER2gOHbuHP2GJoODuXDSZCb.jpg",
+    "director": "Alain Darborg",
+    "mainStars": "Johannes Bah Kuhnke, Nanna Blondell"
+}
+
+]

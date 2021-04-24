@@ -1,0 +1,39 @@
+.movies-container .cards-div{
+    margin-top: 20px !important;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+}
+
+.movies-container .title  h1{
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace; 
+    font-weight:bold;
+    font-size:55px;
+    color: firebrick;
+    padding: 40px;
+}
+
+.movies-container > input{
+    margin: 20px;
+}
+
+
+.movies-container .form-row{
+    justify-content:center;
+} 
+
+
+.movies-container .label {
+    margin: 5px  10px 5px 40px;
+    font-size: 18px;
+    /* font-weight: bold; */
+}
+
+.movies-container .filter , .sort {
+    width: 300px !important;
+
+}
+
+
