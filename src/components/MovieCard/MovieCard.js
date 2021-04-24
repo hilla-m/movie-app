@@ -21,7 +21,7 @@ function MovieCard({ movie }) {
             <img className="movieImg" src={movie.poster} />
             <div className="card-body">
                 <h4 className="card-title">{movie.movieName}</h4>
-                <p><span className="bold">Length In MInutes:</span> {movie.lengthInMinutes}</p>
+                <p><span className="bold">Length In Minutes:</span> {movie.lengthInMinutes}</p>
                 <p><span className="bold">Director:</span> {movie.director}</p>
                 <p><span className="bold">Main Stars:</span> {movie.mainStars}</p>
             </div>
