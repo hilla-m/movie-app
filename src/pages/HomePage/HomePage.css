@@ -1,0 +1,21 @@
+.homepage{
+    background-color: white;
+    background-image: url("https://wallpapercave.com/wp/wp1896113.jpg");
+}
+
+.homepage h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace; 
+    font-weight:bold;
+    font-size:90px;
+    color: firebrick;
+    padding: 450px 0;
+}
+
+
+
+.homepage img{
+    width: 800px;
+    display: block;
+    margin: 0 auto;
+}
