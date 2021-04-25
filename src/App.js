@@ -45,7 +45,7 @@ function App() {
     <div>
       <HashRouter>
         <Switch>
-          <Route exact path="/home">
+          <Route exact path="/">
             <HomePage />
           </Route>
           <Route exact path="/actors">
